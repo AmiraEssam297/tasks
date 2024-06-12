@@ -1,0 +1,17 @@
+what is clean code!?
+Clean code is a term used to refer to code that is easy to read, understand, and maintain.
+It was made popular by Robert Cecil Martin, also known as Uncle Bob,
+who wrote "Clean Code: A Handbook of Agile Software Craftsmanship" in 2008.
+
+Principles of Clean Code:
+1. Avoid Hard-Coded Numbers
+2. Use Meaningful and Descriptive Names
+3. Use Comments Sparingly, and When You Do, Make Them Meaningful
+4. Write Short Functions That Only Do One Thing
+5. Follow the DRY (Don't Repeat Yourself) Principle and Avoid Duplicating Code or Logic
+6. Follow Established Code-Writing Standards
+7. Encapsulate Nested Conditionals into Functions
+8. Refactor Continuously
+9. Use Version Control
+
+
