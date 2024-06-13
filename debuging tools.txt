@@ -1,0 +1,22 @@
+What is Debugging?
+Debugging is one of the complex processes which involves identifying, analyzing,
+and solving the bugs which are present in the code.
+Debugging Tools for 2024 are :
+1. Visual Studio Code
+2. Airbrake
+3. ReSharpe
+4. Angular Augury
+5. IBM Rational Software
+6. Chrome DevTools
+7. Fiddler
+8. Rookout
+9. Bugfender
+10. WebStorm
+11. Lightrun
+12. GDB
+
+
+
+
+
+
